@@ -1,2 +1,2 @@
-# SSD300
-simple start  train.py  eval.py
+python train.py 
+python eval.py  test.jpg
